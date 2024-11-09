@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #111;
+    color: #f4f4f4;
+}
+
+header, footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #222;
+}
+
+h1, h2 {
+    color: #ff69b4;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+nav a {
+    color: #ff69b4;
+    text-decoration: none;
+}
+
+main {
+    padding: 1rem;
+    max-width: 800px;
+    margin: auto;
+}
