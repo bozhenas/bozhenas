@@ -13,13 +13,9 @@
     <main>
         <p>Here is all my projects:</p>
         <nav>
-            <img src="
             <ul>
-                <li>Gothic Flutter Style Project</a></li>
-             
-            </ul>
-        </nav>
-    </main>
+               <a href="https://gothic-flutter-style2.glitch.me/" target="_blank">Gothic Flutter Style Website</a>
+                 <img src="Screenshot 2024-11-08 220250.png"
   
 </body>
 </html>
