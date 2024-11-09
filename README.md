@@ -6,18 +6,21 @@
 </head>
 <body>
     <header>
-        <h1>Nikki's Portfolio</h1>
-        <h2>Welcome to my profile!</h2>
+        <h1 align="center">Nikki's Portfolio</h1>
+        <h2 align="center">Welcome to my profile!</h2>
     </header>
     <main>
-        <p>Here is all my projects:</p>
-        <nav>
-            <ul>
+        <p align="center">Here is all my projects:</p>
+        <div align="center">
+            <ul style="list-style-type:none; padding:0;">
                 <li><a href="gothic.html">Gothic Flutter Style Project</a></li>
-         
+                <!-- More project links can go here -->
             </ul>
-        </nav>
+        </div>
     </main>
-  
+    <footer align="center">
+        <p>&copy; 2024 Nikki. All rights reserved.</p>
+    </footer>
 </body>
 </html>
+
