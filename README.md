@@ -13,8 +13,9 @@
     <main>
         <p>Here is all my projects:</p>
         <nav>
+            <img src="
             <ul>
-                <li><a href="gothic.html">Gothic Flutter Style Project</a></li>
+                <li>Gothic Flutter Style Project</a></li>
              
             </ul>
         </nav>
