@@ -3,25 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+    <title>Gothic Flutter Style Project</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Nikki's Portfolio</h1>
-        <h2>Welcome to my profile!</h2>
+        <h1>Gothic Flutter Style Project</h1>
     </header>
     <main>
-        <p>Here is all my projects:</p>
-        <nav>
-            <ul>
-                <li><a href="gothic.html">Gothic Flutter Style Project</a></li>
-             
-            </ul>
-        </nav>
+        <img src="image.png" alt="Gothic Flutter Style Project Image" style="width: 100%; max-width: 600px;">
+        <p>This project showcases a gothic-themed style with unique layouts and designs. Explore the full page <a href="https://gothicflutterstyle.glitch.me/" target="_blank">here</a>.</p>
     </main>
-  
+    <nav>
+        <ul>
+            <li><a href="index.html">Back to Nikki's Portfolio</a></li>
+        </ul>
+    </nav>
+    <footer>
+        <p>&copy; 2024 Nikki. All rights reserved.</p>
+    </footer>
 </body>
 </html>
-
-
-  
