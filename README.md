@@ -15,7 +15,7 @@
         <nav>
             <ul> 
                <a href="https://gothic-flutter-style2.glitch.me/" target="_blank">Gothic Flutter Style Website</a>
-                 <img src="Screenshot 2024-11-08 220250.png"> </ul>
+                 <img src="Screenshot 2024-11-10 003238.png"> </ul>
  <ul> <a href="https://princess-quiz-link.glitch.me/" target="_blank">What Disney Princess are You?</a>
   <img src="Screenshot 2024-11-09 235310.png"></ul>
       <a href="https://top-10-cartoons.glitch.me/" target="_blank">Top 10 Cartoons</a>
@@ -24,6 +24,7 @@
             <img src="Screenshot 2024-11-10 002036.png">
                  <a href="https://poem-necessary-movie.glitch.me/" target="_blank">Poem</a>  
             <img src="Screenshot 2024-11-10 003001.png">
+          
 
 </body>
 </html>
