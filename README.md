@@ -13,12 +13,14 @@
     <main>
         <p>Here is all my projects:</p>
         <nav>
-            <ul>
+            <ul> 
                <a href="https://gothic-flutter-style2.glitch.me/" target="_blank">Gothic Flutter Style Website</a>
-                 <img src="Screenshot 2024-11-08 220250.png">
+                 <img src="Screenshot 2024-11-08 220250.png"> </ul>
   <a href="https://princess-quiz-link.glitch.me/" target="_blank">What Disney Princess are You?</a>
   <img scr="Screenshot 2024-11-09 235310.png">
-  
+  <ul> 
+      <a href="https://top-10-cartoons.glitch.me/" target="_blank">Top 10 Cartoons</a>
+      <img scr="
 </body>
 </html>
 
